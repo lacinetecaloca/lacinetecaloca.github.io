@@ -1,0 +1,11 @@
+---
+title: La Cineteca Loca
+description: Film club in Bonn
+url:   "https://lacinetecaloca.github.io"
+
+future:      true
+
+markdown:    kramdown
+kramdown: 
+  parse_block_html: true
+---

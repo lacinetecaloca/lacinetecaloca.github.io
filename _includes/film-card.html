@@ -1,0 +1,18 @@
+<div class="card">
+{{ film.date | date: "%d.%m.%Y" }}
+{: .screening-date}
+{% if film.title != "Cancelled" %}
+![]({{ film.poster-url }})
+{: .poster}
+{{ film.title }} ({{ film.year }})
+{: .film-title}
+Country of origin: {{ film.country }}\\
+Director: {{ film.director }}\\
+Duration: {{ film.duration }}
+
+[IMDb]({{ film.imdb-url }}) &#10070; [Wikipedia]({{ film.wikipedia-url }})
+{% else %}
+{{ film.title }}
+{: .film-title}
+{% endif %}
+</div>
