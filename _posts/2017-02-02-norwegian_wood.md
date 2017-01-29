@@ -2,8 +2,8 @@
 layout: null
 title: Norwegian Wood
 year: 2010
-country: United Kingdom
-director: Lynne Ramsay
+country: Japan
+director: Tran Anh Hung
 duration: 2 hours and 13 minutes
 imdb-url: http://www.imdb.com/title/tt1270842/
 wikipedia-url: https://en.wikipedia.org/wiki/Norwegian_Wood_(film)
