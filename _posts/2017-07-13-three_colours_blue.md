@@ -1,6 +1,6 @@
 ---
 layout: null
-title: "Three Colours: Blue""
+title: "Three Colours&#58; Blue"
 year: 1993
 country: France, Poland, and Switzerland
 director: "Krzysztof Kie&sacute;lowski"
