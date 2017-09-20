@@ -2,12 +2,13 @@
 layout: default
 ---
 <div class="card">
-We meet every Thursday at **19:30**. The film starts at **20:00** ([BYOB](https://en.wikipedia.org/wiki/BYOB)).
 
-Send an email to `la.cineteca.loca[at]gmail.com` to subscribe to our mailing list.
+The last screening of La Cineteca Loca took place on 21.09.2017.
+
+Thank you all for the great times!
 
 N&eacute;stor, Sondre & Gustavo\\
-Bonn 23.09.2016
+Bonn 23.09.2016-21.09.2017
 {: style="text-align: right"}
 Alessandro, Sondre & Gustavo\\
 Bonn 01.01.2016-22.09.2016
