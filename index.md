@@ -3,7 +3,7 @@ layout: default
 ---
 <div class="card">
 
-The last screening of La Cineteca Loca will take place on 21.09.2017.
+The last screening of La Cineteca Loca took place on 21.09.2017.
 
 Thank you all for the great times!
 
